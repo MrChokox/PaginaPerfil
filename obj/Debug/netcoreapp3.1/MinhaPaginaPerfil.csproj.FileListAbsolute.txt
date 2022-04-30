@@ -108,3 +108,4 @@ D:\Projetos VS\MinhaPaginaPerfil\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalys
 D:\Projetos VS\MinhaPaginaPerfil\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Projetos VS\MinhaPaginaPerfil\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Projetos VS\MinhaPaginaPerfil\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos VS\MinhaPaginaPerfil\obj\Debug\netcoreapp3.1\Razor\Views\Sobre\Index.cshtml.g.cs
